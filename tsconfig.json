@@ -8,6 +8,6 @@
             "expect-webdriverio",
             "@wdio/jasmine-framework"
         ],
-        "target": "es2022"
+        "target": "esnext"
     }
 }
